@@ -15,7 +15,7 @@ An interactive dashboard to monitor systemic risk in financial markets using a c
 
 ## 🖼️ Screenshot
 
-![Dashboard Screenshot](images/Screenshot.png)
+![Dashboard Screenshot](screenshots/Screenshot.png)
 
 ## 🛠️ How It Works
 
