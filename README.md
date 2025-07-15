@@ -2,7 +2,6 @@
 
 ![Python Version](https://img.shields.io/badge/python-3.12+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.46.1-FF4B4B.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 An interactive dashboard to monitor systemic risk in financial markets using a custom-built index and Generative AI-powered analysis.
 
